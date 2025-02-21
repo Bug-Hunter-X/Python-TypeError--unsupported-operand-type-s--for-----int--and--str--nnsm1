@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: TypeError when performing operations on incompatible data types. The `bug.py` file contains code that attempts to add an integer and a string which results in a TypeError.  The `bugSolution.py` file provides a corrected version of the code.
